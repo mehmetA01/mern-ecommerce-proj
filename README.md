@@ -26,9 +26,8 @@ User Profile and Update Ability
  - use Cloudflare's free SSL to secure your app
 
 
-## Authors
-- Luis Febro
-- Ryan Dhungel
+## Author
+- Gleb B
 
 - Resource: [React Node FullStack Library](https://www.udemy.com/share/101ZGqB0Ubc1dQRHg=/)
 
