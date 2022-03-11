@@ -27,7 +27,7 @@ User Profile and Update Ability
 
 
 ## Author
-- Gleb B
+- Mehmet A
 
 - Resource: [React Node FullStack Library](https://www.udemy.com/share/101ZGqB0Ubc1dQRHg=/)
 
